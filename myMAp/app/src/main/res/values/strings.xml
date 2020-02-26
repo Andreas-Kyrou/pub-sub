@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myMAp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back">BACK</string>
+    <string name="close">CLOSE</string>
+    <string name="clean">CLEAN</string>
+</resources>

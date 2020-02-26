@@ -1,0 +1,10 @@
+1. sto txt gia tous brokers ston master tha einai grammenoi oloi oi ipolipoi brokers
+2. i port tou master tha ine 5339 
+3. an o master broker den einai se localhost prp ston publisher ekei pou sindeete gia proti fora me ton master broker
+ na valoume tin ip tou master
+4. sto android studio prepei na valoume tin ip tou master broker stin proti sindesi
+5. anazitisi leoforiou ginete me to na grapsoume tin grammi pou mas endiaferei kai gia na zitisoume alli grammi 
+patame clean kai ksana grammi kai ok
+6. to koumpi close klinei to async task
+7. stous ipolipous broker i moni eggrafi tha einai to id tous, to port tous,kai i ip tous
+8.Sto brokers txt allazoume tin ip kai vazoume tin ip pou exi o ekastote ipologistis
